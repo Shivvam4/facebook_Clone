@@ -1,0 +1,29 @@
+body{
+    padding: 0px; margin: 0px;
+}
+header{
+    background-color:#365897;
+    color: white;
+}
+
+p{
+    margin-left: 3%;
+}
+img{
+    margin-left: 5%;
+}
+
+div {
+    margin-top: 10px;
+    margin-right: 13%;
+    width: fit-content;
+    display: inline-block;
+    float: right;
+}
+button{
+    
+    background-color: rgb(66,103,178);
+    border-color: rgb(41,72,125);
+    border-radius: 5px;
+    color: white;
+}
